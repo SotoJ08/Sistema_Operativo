@@ -1,0 +1,26 @@
+{
+  "name": "simulador-windows",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0"
+},
+"devDependencies": {
+  "@vitejs/plugin-react": "^3.1.0",
+  "autoprefixer": "^10.4.15",
+  "postcss": "^8.4.24",
+  "tailwindcss": "^3.4.6",
+  "vite": "^4.3.9",
+  "@types/react": "^18.2.7",
+  "@types/react-dom": "^18.2.4"
+}
+
+}
